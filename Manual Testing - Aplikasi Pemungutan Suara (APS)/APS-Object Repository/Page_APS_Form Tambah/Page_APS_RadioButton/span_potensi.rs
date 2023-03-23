@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_potensi</name>
+   <tag></tag>
+   <elementGuidId>8a413a97-db0f-43cd-90f6-58bffb6339db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Statusradio > label.radio > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Statusradio']/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>009a18fb-c366-4d17-94d5-a82756e68f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Statusradio&quot;)/label[@class=&quot;radio&quot;]/span[1]</value>
+      <webElementGuid>bdbdacdd-efd3-464d-ba3f-dcc51e1bc2dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Statusradio']/label/span</value>
+      <webElementGuid>2017bb3e-7183-49d1-a8e7-8557122f01ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/label/span</value>
+      <webElementGuid>3b5fd496-c28e-4648-9231-be82994a7e5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

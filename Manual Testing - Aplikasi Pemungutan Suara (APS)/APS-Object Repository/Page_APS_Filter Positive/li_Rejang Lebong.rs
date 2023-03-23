@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Rejang Lebong</name>
+   <tag></tag>
+   <elementGuidId>966a9b57-c7e5-48bb-848a-e6f8090d925a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-filter_kota_id-result-0pxc-d27d78aa3f70757bc6679d089d67d903' and (text() = 'Rejang Lebong' or . = 'Rejang Lebong')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f8c1c5db-d8a2-45cc-8d10-3c201bbdc2f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>ce7e4d63-dc95-423a-8d49-f65ef7febfdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-filter_kota_id-result-0pxc-d27d78aa3f70757bc6679d089d67d903</value>
+      <webElementGuid>22f34885-3b0e-492a-aabd-120b1913446e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>59c18647-8710-4093-bba0-d9010be0952a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0617ef70-c785-42c1-9f86-61bb26188d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-filter_kota_id-result-0pxc-d27d78aa3f70757bc6679d089d67d903</value>
+      <webElementGuid>f74ec2b3-14b2-43c4-ac4e-6f0d4daec8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rejang Lebong</value>
+      <webElementGuid>a27fc7cb-1e4e-45f8-a6c0-b232988dd57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-filter_kota_id-result-0pxc-d27d78aa3f70757bc6679d089d67d903&quot;)</value>
+      <webElementGuid>c462a5d4-2b96-48c0-8f89-713b9ba0ce11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-filter_kota_id-result-0pxc-d27d78aa3f70757bc6679d089d67d903' and (text() = 'Rejang Lebong' or . = 'Rejang Lebong')]</value>
+      <webElementGuid>23c8c01b-2706-4633-97ee-c5c52d1ea1e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

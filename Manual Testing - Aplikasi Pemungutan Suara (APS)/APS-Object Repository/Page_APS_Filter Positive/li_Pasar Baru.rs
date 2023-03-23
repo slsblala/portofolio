@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Pasar Baru</name>
+   <tag></tag>
+   <elementGuidId>783f8b1c-1da4-4cbe-ad43-3ee7e8d69978</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-filter_kelurahan_id-result-ryjj-e5b244ad6e2742062695c0c82147c499' and (text() = 'Pasar Baru' or . = 'Pasar Baru')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5f791df6-163a-44c5-ae90-6e5a05284721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>f09e2180-2ea6-48fd-996a-b23da84a7980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-filter_kelurahan_id-result-ryjj-e5b244ad6e2742062695c0c82147c499</value>
+      <webElementGuid>ea50a019-8d95-4cff-a35e-683944738a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>8b3c6e2f-615a-439f-80e3-57e8eeff3554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>56d9ee43-56ba-4cc9-9f5c-0c40797735ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-filter_kelurahan_id-result-ryjj-e5b244ad6e2742062695c0c82147c499</value>
+      <webElementGuid>61935e3f-9821-4b1a-a327-a054e56260cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pasar Baru</value>
+      <webElementGuid>bb320fe4-1c2a-4d5c-8f99-082c151851f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-filter_kelurahan_id-result-ryjj-e5b244ad6e2742062695c0c82147c499&quot;)</value>
+      <webElementGuid>1ad682a8-32b7-4d5d-a870-348fb5ded3f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-filter_kelurahan_id-result-ryjj-e5b244ad6e2742062695c0c82147c499' and (text() = 'Pasar Baru' or . = 'Pasar Baru')]</value>
+      <webElementGuid>4677ec54-36c9-4c1d-b11c-5b0ac60f0919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
